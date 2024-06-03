@@ -1,0 +1,1 @@
+This is a website that allows us to enter as many empolyees as needed, and will allow us to see the average salary of all employees, while keeping the employees listed in the applicaiton on the website its self. 
